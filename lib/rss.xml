@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[lab1]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>lab1</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 18 Apr 2024 09:36:04 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 18 Apr 2024 09:36:01 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Новый текстовый документ]]></title><description><![CDATA[ 
+ <br><br>
+<br>установить sublime merge  <a rel="noopener" class="external-link" href="https://www.sublimemerge.com/" target="_blank">https://www.sublimemerge.com/</a>
+<br>установить обсидиан <a rel="noopener" class="external-link" href="https://obsidian.md/" target="_blank">https://obsidian.md/</a>
+<br>склонировать репозиторий 
+<br>отключить пункт вики ссылки
+<br>выполнить задание 
+<br>зафиксировать изменения и запушить гитхаб
+<br><img src="image\pasted-image-20240404120119.png?1712223559495">
+<br><img src="image\pasted-image-20240404120006.png?1712223559444"><img src="image\pasted-image-20240404121231.png?1712223559568">]]></description><link>новый-текстовый-документ.html</link><guid isPermaLink="false">Новый текстовый документ.md</guid><pubDate>Thu, 04 Apr 2024 09:39:36 GMT</pubDate><enclosure url="image\pasted-image-20240404120119.png?1712223559495" length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;image\pasted-image-20240404120119.png?1712223559495&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[lab1]]></title><description><![CDATA[ 
+ <br><br>hello]]></description><link>readme.html</link><guid isPermaLink="false">README.md</guid><pubDate>Thu, 04 Apr 2024 09:39:40 GMT</pubDate></item></channel></rss>
